@@ -1,7 +1,7 @@
 boggle
 ======
 
-An ASCII version of the popular board game. It is run in the terminal and programmed in Java.
+An ASCII version of the popular board game. It is executed in the terminal and programmed in Java.
 
 This program was written for the Data Structures class, which I am currently taking, in order to explore the use of the
 map abstract data type. 
