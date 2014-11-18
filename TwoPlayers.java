@@ -14,7 +14,6 @@ public class TwoPlayers {
   public ComputerPlayer computer;
   public volatile Queue<String> compWords = null;
 
-  //TODO: Replace YourDataStructure below.
   public HashMap myWords = new HashMap();
 
   public TwoPlayers() {
